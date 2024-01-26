@@ -1,5 +1,6 @@
 {
   "name": "password-generator",
+  "home": "https://rishurishabh.github.io/password_generator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
